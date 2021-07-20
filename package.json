@@ -2,7 +2,23 @@
     "name": "Edvoy-coders",
     "displayName": "Edvoy Coders",
     "description": "edvoy,coders,dark,honex",
-    "version": "0.0.1",
+    "version": "0.0.2",
+	"publisher":"EdvoyCoders",
+	"repository":{
+		"type":"git",
+		"url":"https://github.com/Sreenivassreee/theme.git"
+	},
+	"keywords":[
+"sreenivas theme",
+"edvoy",
+"themes",
+"pure black theme",
+"edvoy theme",
+"popular themes",
+"ragava",
+"daamu","dinesh",
+"sreenivas k new theme"
+	],
     "engines": {
         "vscode": "^1.58.0"
     },

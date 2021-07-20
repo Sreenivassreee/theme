@@ -1,25 +1,7 @@
 {
 	"name": "Edvoy Coders",
 	"type": "dark",
-	"displayName":"EdvoyCoders",
-	"description":"Made with Love ❤️",
-	"version":"1.0.0",
-	"publisher":"Sreenivas K ",
-	"repository":{
-		"type":"git",
-		"url":"https://github.com/Sreenivassreee/theme.git"
-	},
-	"keywords":[
-"sreenivas theme",
-"edvoy",
-"themes",
-"pure black theme",
-"edvoy theme",
-"popular themes",
-"ragava",
-"daamu","dinesh",
-"sreenivas k new theme"
-	],
+	
 	"colors": {
     "focusBorder": "#00000000",
     "foreground": "#BFD4E1",
