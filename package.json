@@ -1,0 +1,21 @@
+{
+    "name": "Edvoy-coders",
+    "displayName": "Edvoy Coders",
+    "description": "edvoy,coders,dark,honex",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Edvoy Coders",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Edvoy Coders-color-theme.json"
+            }
+        ]
+    }
+}
